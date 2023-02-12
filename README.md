@@ -1,8 +1,9 @@
-# Sample Hardhat Project
+# Merkle Tree Test Project
+Super small project built for LearnWeb3 DAO's Senior Track to test Merkle Tree membership fverification
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
-Try running some of the following tasks:
+
+
 
 ```shell
 npx hardhat help
